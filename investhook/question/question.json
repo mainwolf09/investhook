@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "Success get quiz list",
+  "data": {
+    "questions": [
+      {
+        "id": 0,
+        "post_tests_id": 0,
+        "question_content":"Jawab pertanyaan berikut?",
+        "answer_options": [
+          {
+            "id": 0,
+            "answer_option": "A",
+            "answer_content": "Pilihan A"
+          },
+          {
+            "id": 1,
+            "answer_option": "B",
+            "answer_content": "Pilihan B"
+          },
+          {
+            "id": 2,
+            "answer_option": "C",
+            "answer_content": "Pilihan C"
+          },
+          {
+            "id": 3,
+            "answer_option": "D",
+            "answer_content": "Pilihan D"
+          }
+        ],
+        "right_answer":"B"
+      },
+      {
+        "id": 1,
+        "post_tests_id": 0,
+        "question_content":"Jawab pertanyaan berikut lagi?",
+        "answer_options": [
+          {
+            "id": 0,
+            "answer_option": "A",
+            "answer_content": "Pilihan A"
+          },
+          {
+            "id": 1,
+            "answer_option": "B",
+            "answer_content": "Pilihan B"
+          },
+          {
+            "id": 2,
+            "answer_option": "C",
+            "answer_content": "Pilihan C"
+          },
+          {
+            "id": 3,
+            "answer_option": "D",
+            "answer_content": "Pilihan D"
+          }
+        ],
+        "right_answer":"C"
+      }
+    ]
+  },
+  "time_limit": 30000
+}

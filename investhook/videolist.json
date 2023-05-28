@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "title": "Penjelasan Trading",
+      "content": [
+        {
+          "id": 1,
+          "title": "Special Note from Jie",
+          "video_code": "159cb7612e944c308e2d2839878549b6",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 128
+        },
+        {
+          "id": 2,
+          "title": "Cara Baca Tabel Tapak Naga",
+          "video_code": "845803eb906e4912a04547d2b5b081ef",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1273
+        }
+      ]
+    },
+    {
+      "title": "Step by Step menjadi Trader Pro",
+      "content": [
+        {
+          "id": 1,
+          "title": "Special Note from Jie",
+          "video_code": "159cb7612e944c308e2d2839878549b6",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 128
+        },
+        {
+          "id": 2,
+          "title": "Cara Baca Tabel Tapak Naga",
+          "video_code": "845803eb906e4912a04547d2b5b081ef",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1273
+        },
+        {
+          "id": 3,
+          "title": "Kesalahan Trader Pemula",
+          "video_code": "ac6c4ce84c9d4be9840472d22db10508",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1677
+        },
+        {
+          "id": 4,
+          "title": "DrawDown",
+          "video_code": "682d1bf49a014ac397ae85a6ac11e2af",
+          "is_seen": 0,
+          "is_complete": 0,
+          "length": 683
+        }
+      ]
+    },
+    {
+      "title": "Market Update",
+      "content": [
+        {
+          "id": 1,
+          "title": "Special Note from Jie",
+          "video_code": "159cb7612e944c308e2d2839878549b6",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 128
+        },
+        {
+          "id": 2,
+          "title": "Cara Baca Tabel Tapak Naga",
+          "video_code": "845803eb906e4912a04547d2b5b081ef",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1273
+        },
+        {
+          "id": 3,
+          "title": "Kesalahan Trader Pemula",
+          "video_code": "ac6c4ce84c9d4be9840472d22db10508",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1677
+        }
+      ]
+    },
+    {
+      "title": "Saran untuk pemula",
+      "content": [
+        {
+          "id": 1,
+          "title": "Special Note from Jie",
+          "video_code": "159cb7612e944c308e2d2839878549b6",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 128
+        },
+        {
+          "id": 2,
+          "title": "Cara Baca Tabel Tapak Naga",
+          "video_code": "845803eb906e4912a04547d2b5b081ef",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1273
+        },
+        {
+          "id": 3,
+          "title": "Kesalahan Trader Pemula",
+          "video_code": "ac6c4ce84c9d4be9840472d22db10508",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1677
+        }
+      ]
+    },
+    {
+      "title": "Latihan untuk pemula",
+      "content": [
+        {
+          "id": 1,
+          "title": "Special Note from Jie",
+          "video_code": "159cb7612e944c308e2d2839878549b6",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 128
+        },
+        {
+          "id": 2,
+          "title": "Cara Baca Tabel Tapak Naga",
+          "video_code": "845803eb906e4912a04547d2b5b081ef",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1273
+        },
+        {
+          "id": 3,
+          "title": "Kesalahan Trader Pemula",
+          "video_code": "ac6c4ce84c9d4be9840472d22db10508",
+          "is_seen": 1,
+          "is_complete": 0,
+          "length": 1677
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 33,
+      "title": "Tabel TN 14122022",
+      "slug": "artikel-1",
+      "featured_image": null,
+      "body": "<style>img { max-width:100%; }</style><p><img src='https://berdagangangka.id/uploads/4/2022-12/bf5d7190bd9267ca7c85c30fb8c5d7d4.jpg'></p><p><img src='https://berdagangangka.id/uploads/4/2022-12/93cb7385e95e6cd935434281f324f644.jpg'><br></p>",
+      "tipe": "ARTICLE",
+      "updated_at": null,
+      "views": null,
+      "categories_id": 22,
+      "classes_id": 61
+    }
+  ]
+}

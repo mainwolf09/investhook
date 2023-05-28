@@ -1,0 +1,61 @@
+{
+    "code":200,
+    "data": [
+        {
+          "body": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+          "classes_id": 0,
+          "created_at": "2023-03-03 16:45:04",
+          "deleted_at": null,
+          "icon": "https://i.pinimg.com/564x/9b/56/3a/9b563adf9faa37df5c49b1c5eeca088d.jpg",
+          "id": 140,
+          "is_read": 1,
+          "notification_type": "user",
+          "title": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+          "type": "general",
+          "updated_at": "2023-03-03 16:45:04",
+          "users_id": 1
+        },
+        {
+          "body": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+          "classes_id": 0,
+          "created_at": "2022-12-14 12:29:49",
+          "deleted_at": null,
+          "icon": "https://i.pinimg.com/564x/9b/56/3a/9b563adf9faa37df5c49b1c5eeca088d.jpg",
+          "id": 33,
+          "is_read": 1,
+          "notification_type": "user",
+          "title": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+          "type": "general",
+          "updated_at": "2022-12-14 12:29:49",
+          "users_id": 1 
+        },
+        {
+          "body": "Meikarta Apartment MKRT is preicted to increase at the beginning of the year at IDR 780 per share",
+          "classes_id": 0,
+          "created_at": "2022-12-14 12:29:49",
+          "deleted_at": null,
+          "icon": "https://i.pinimg.com/564x/9b/56/3a/9b563adf9faa37df5c49b1c5eeca088d.jpg",
+          "id": 34,
+          "is_read": 1,
+          "notification_type": "user",
+          "title": "Meikarta Apartment MKRT is preicted to increase at the beginning of the year at IDR 780 per share",
+          "type": "general",
+          "updated_at": "2022-12-14 12:29:49",
+          "users_id": 1 
+        },
+        {
+          "body": "Siloam Hospital HISH is predicted to work at Claudia Alvarenga as CFO",
+          "classes_id": 0,
+          "created_at": "2022-12-14 12:29:49",
+          "deleted_at": null,
+          "icon": "https://i.pinimg.com/564x/52/d1/df/52d1df186f91d5ebcce25d717429b030.jpg",
+          "id": 35,
+          "is_read": 1,
+          "notification_type": "user",
+          "title": "Siloam Hospital HISH is predicted to work at Claudia Alvarenga as CFO",
+          "type": "general",
+          "updated_at": "2022-12-14 12:29:49",
+          "users_id": 1 
+        }
+      ]
+}

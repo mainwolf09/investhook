@@ -1,0 +1,139 @@
+{
+  "notification": [
+    {
+      "body": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+      "classes_id": 0,
+      "created_at": "2023-03-03 16:45:04",
+      "deleted_at": null,
+      "icon": "https://i.pinimg.com/564x/9b/56/3a/9b563adf9faa37df5c49b1c5eeca088d.jpg",
+      "id": 140,
+      "is_read": 1,
+      "notification_type": "user",
+      "title": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+      "type": "general",
+      "updated_at": "2023-03-03 16:45:04",
+      "users_id": 1
+    },
+    {
+      "body": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+      "classes_id": 0,
+      "created_at": "2022-12-14 12:29:49",
+      "deleted_at": null,
+      "icon": "https://i.pinimg.com/564x/9b/56/3a/9b563adf9faa37df5c49b1c5eeca088d.jpg",
+      "id": 33,
+      "is_read": 1,
+      "notification_type": "user",
+      "title": "Firm Capital Apartment REIT is predicted to increase to IDR 350 per share",
+      "type": "general",
+      "updated_at": "2022-12-14 12:29:49",
+      "users_id": 1 
+    },
+    {
+      "body": "Meikarta Apartment MKRT is preicted to increase at the beginning of the year at IDR 780 per share",
+      "classes_id": 0,
+      "created_at": "2022-12-14 12:29:49",
+      "deleted_at": null,
+      "icon": "https://i.pinimg.com/564x/9b/56/3a/9b563adf9faa37df5c49b1c5eeca088d.jpg",
+      "id": 34,
+      "is_read": 1,
+      "notification_type": "user",
+      "title": "Meikarta Apartment MKRT is preicted to increase at the beginning of the year at IDR 780 per share",
+      "type": "general",
+      "updated_at": "2022-12-14 12:29:49",
+      "users_id": 1 
+    },
+    {
+      "body": "Siloam Hospital HISH is predicted to work at Claudia Alvarenga as CFO",
+      "classes_id": 0,
+      "created_at": "2022-12-14 12:29:49",
+      "deleted_at": null,
+      "icon": "https://i.pinimg.com/564x/52/d1/df/52d1df186f91d5ebcce25d717429b030.jpg",
+      "id": 35,
+      "is_read": 1,
+      "notification_type": "user",
+      "title": "Siloam Hospital HISH is predicted to work at Claudia Alvarenga as CFO",
+      "type": "general",
+      "updated_at": "2022-12-14 12:29:49",
+      "users_id": 1 
+    }
+  ],
+  "videos": [
+    {
+      "id": 0,
+      "title": "Mengenal Konsep Pendapatan",
+      "pic_video": "https://i.pinimg.com/750x/0b/3e/b0/0b3eb03eef36c7ff1ebd8de73b59d167.jpg",
+      "mentor": {
+        "pic_mentor": "https://i.pinimg.com/750x/a9/06/45/a90645eea3702171e1de72bbf131eec1.jpg",
+        "nama_mentor": "Michael Budiman",
+        "gelar_mentor": "Profesional Trader"
+      }
+    },
+    {
+      "id": 0,
+      "title": "Perencanaan Finansial",
+      "pic_video": "https://i.pinimg.com/750x/2d/5c/05/2d5c05d1c1612f4ff24fcb8f60543b86.jpg",
+      "mentor": {
+        "pic_mentor": "https://i.pinimg.com/750x/4c/f0/d8/4cf0d8b7c7ea99e666b36cda8c52870f.jpg",
+        "nama_mentor": "Agus Sudarsono",
+        "gelar_mentor": "Profesional Trader"
+      }
+    },
+    {
+      "id": 0,
+      "title": "Trading Metode Value Investing",
+      "pic_video": "https://i.pinimg.com/750x/0b/3e/b0/0b3eb03eef36c7ff1ebd8de73b59d167.jpg",
+      "mentor": {
+        "pic_mentor": "https://i.pinimg.com/750x/a9/06/45/a90645eea3702171e1de72bbf131eec1.jpg",
+        "nama_mentor": "Michael Budiman",
+        "gelar_mentor": "Profesional Trader"
+      }
+    }
+  ],
+  "events": [
+    {
+      "body": "<p>Semua di informasikan pada H-1 agar anda bisa menyiapkan diri anda dengan baik &amp; santai.</p><p>Sistem trading yang saya jalankan bernama, sistem trading Tapak Naga</p><p>menganut aliran trading, Swing Trading dan TrendFollower</p><p><br></p><p>Dengan kalkulasi money management yang tepat</p><p>sertapenerapan market timing yang didukung oleh data yang solid</p><p>yang akan menyarankan untuk trade hanya posisi kecil ketika market sedang tidak baik</p><p>dantrade dengan percaya diri ambil posisi besar ketika market sedang bagus.</p><p><br></p><p>sistem trading Tapak Naga, cocok untuk orang sibuk</p><p>karena tidak perlu monitor market ketika market sedang berjalan</p><p>seluruh order, menggunakan Automatic Order</p><div><br></div>",
+      "categories_id": null,
+      "classes_id": null,
+      "created_at": "2022-10-26 08:53:05",
+      "deleted_at": null,
+      "featured_image": "https://i.pinimg.com/750x/44/b5/94/44b594166c449756d38b40a0d6d2da17.jpg",
+      "id": 23,
+      "json_meta": null,
+      "slug": null,
+      "tipe": "Event Tersedia",
+      "title": "Cuan di Pasar Saham dengan metode Value Investing",
+      "updated_at": "2022-11-18 07:35:56",
+      "views": null
+    }
+  ],
+  "article": [
+    {
+      "categories_id": 22,
+      "classes_id": 61,
+      "created_at": "2022-12-14 10:37:54",
+      "deleted_at": null,
+      "featured_image": "https://i.pinimg.com/750x/65/6e/ff/656eff81b5befef8a8022d9f2199b9d6.jpg",
+      "id": 33,
+      "json_meta": null,
+      "slug": "Stock Investment Must Also Have a Strategy! Come on, For Investors",
+      "tipe": "ARTICLE",
+      "title": "Stock Investment Must Also Have a Strategy! Come on, For Investors",
+      "updated_at": null,
+      "views": null
+    },
+    {
+      "categories_id": 22,
+      "classes_id": 61,
+      "created_at": "2022-12-14 10:37:54",
+      "deleted_at": null,
+      "featured_image": "https://i.pinimg.com/750x/75/23/4b/75234b69f9f0183f7dc8d81eae52947c.jpg",
+      "id": 33,
+      "json_meta": null,
+      "slug": "Indonesian Capital Market Activities in the Pandemic Era",
+      "tipe": "ARTICLE",
+      "title": "Indonesian Capital Market Activities in the Pandemic Era",
+      "updated_at": null,
+      "views": null
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 1,
+      "videoUrl":"https://www.youtube.com/watch?v=smYS4QD66OM",
+      "duration": 0,
+      "progressduration": 0,
+      "meta": {
+        "id": "276df64a1c4044a382554f093383a99d",
+        "title": "Special Note from Jie",
+        "description": "",
+        "upload_time": 1679276629,
+        "length": 854,
+        "status": "ready",
+        "public": 2,
+        "ipGeoRules": null,
+        "whitelisthref": null,
+        "posters": [
+          {
+            "width": 867,
+            "height": 480,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.480.jpeg"
+          },
+          {
+            "width": 434,
+            "height": 240,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg"
+          },
+          {
+            "width": 1301,
+            "height": 720,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.720.jpeg"
+          }
+        ],
+        "poster": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg",
+        "tags": []
+      }
+    },
+    {
+      "id": 2,
+      "videoUrl":"https://www.youtube.com/watch?v=smYS4QD66OM",
+      "duration": 0,
+      "progressduration": 0,
+      "meta": {
+        "id": "276df64a1c4044a382554f093383a99d",
+        "title": "Special Note from Jie",
+        "description": "",
+        "upload_time": 1679276629,
+        "length": 854,
+        "status": "ready",
+        "public": 2,
+        "ipGeoRules": null,
+        "whitelisthref": null,
+        "posters": [
+          {
+            "width": 867,
+            "height": 480,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.480.jpeg"
+          },
+          {
+            "width": 434,
+            "height": 240,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg"
+          },
+          {
+            "width": 1301,
+            "height": 720,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.720.jpeg"
+          }
+        ],
+        "poster": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg",
+        "tags": []
+      }
+    },{
+      "id": 3,
+      "videoUrl":"https://www.youtube.com/watch?v=smYS4QD66OM",
+      "duration": 0,
+      "progressduration": 0,
+      "meta": {
+        "id": "276df64a1c4044a382554f093383a99d",
+        "title": "Special Note from Jie",
+        "description": "",
+        "upload_time": 1679276629,
+        "length": 854,
+        "status": "ready",
+        "public": 2,
+        "ipGeoRules": null,
+        "whitelisthref": null,
+        "posters": [
+          {
+            "width": 867,
+            "height": 480,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.480.jpeg"
+          },
+          {
+            "width": 434,
+            "height": 240,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg"
+          },
+          {
+            "width": 1301,
+            "height": 720,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.720.jpeg"
+          }
+        ],
+        "poster": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg",
+        "tags": []
+      }
+    },{
+      "id": 4,
+      "videoUrl":"https://www.youtube.com/watch?v=smYS4QD66OM",
+      "duration": 0,
+      "progressduration": 0,
+      "meta": {
+        "id": "276df64a1c4044a382554f093383a99d",
+        "title": "Special Note from Jie",
+        "description": "",
+        "upload_time": 1679276629,
+        "length": 854,
+        "status": "ready",
+        "public": 2,
+        "ipGeoRules": null,
+        "whitelisthref": null,
+        "posters": [
+          {
+            "width": 867,
+            "height": 480,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.480.jpeg"
+          },
+          {
+            "width": 434,
+            "height": 240,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg"
+          },
+          {
+            "width": 1301,
+            "height": 720,
+            "posterUrl": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.720.jpeg"
+          }
+        ],
+        "poster": "https://d1z78r8i505acl.cloudfront.net/poster/M1rkpSaLSLQ9c.240.jpeg",
+        "tags": []
+      }
+    }
+  ]
+}

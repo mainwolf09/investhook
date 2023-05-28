@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": "Success get package list",
+  "data": [
+    {
+      "id": 2,
+      "title": "Investhook 6 Bulan",
+      "description": "<ul><li >Konsep dasar untuk trading dengan baik & benar</li><li>Video update situasi market</li><li>Video update situasi market</li><li>Konsep dasar untuk trading dengan baik & benar</li></ul",
+      "subscribe_month": 6,
+      "package_type": "angka-bicara",
+      "is_show": "1",
+      "price": 1000000
+    },
+    {
+      "id": 3,
+      "title": "Investhook 12 Bulan",
+      "description": "<ul><li>Konsep dasar untuk trading dengan baik & benar</li><li>Video update situasi market</li><li>Video update situasi market</li><li>Konsep dasar untuk trading dengan baik & benar</li></ul",
+      "subscribe_month": 12,
+      "package_type": "angka-bicara",
+      "is_show": "1",
+      "price": 3000000
+    }
+  ]
+}
